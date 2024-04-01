@@ -1,0 +1,82 @@
+﻿@model BitPro.SchoolMate.Transactions.Pages.ClassWiseFeeCollectionReport.ClassWiseFeeCollectionReporViewtData
+@if ((bool?)ViewData["Printing"] == true)
+{
+    Layout = MVC.Views.Shared._LayoutNoNavigation;
+}
+@section Head {
+
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+}
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    /* Float four columns side by side */
+    .column {
+        float: left;
+        width: 25%;
+        padding: 0 10px;
+    }
+
+    /* Remove extra left and right margins, due to padding */
+    .row {
+        margin: 0 -5px;
+    }
+
+        /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+    /* Responsive columns */
+
+
+    /* Style the counter cards */
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        padding: 16px;
+        text-align: center;
+        background-color: #f1f1f1;
+    }
+</style>
+
+<div class="w3-container" id="pardiv">
+    <div class="col-md-6 card" style="padding:5px">
+        <h1>Class Wise Fee Collection</h1>From:@Model.aboutreport.FromDate.ToString("dd-MMM-yyy") To:@Model.aboutreport.ToDate.ToString("dd-MMM-yyy")
+        <table class="w3-table-all">
+            <thead>
+                <tr class="w3-red">
+                    <th>Date</th>
+                    <th>Class</th>
+                    <th>PaidStudents</th>
+                    <th>TotalCollectedAmount</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var d in Model.Details)
+                {
+                <tr>
+                    <td>@d.Date.ToString("dd-MMM-yyy")</td>
+                    <td>@d.Class</td>
+                    <td style="text-align:center">@d.PaidStudents</td>
+                    <td style="text-align:center">@d.TotalCollectedAmount</td>
+                </tr>
+                }
+            </tbody>
+            <tr>
+                <td>Total</td>
+                <td style="text-align:center"></td>
+                <td style="text-align:center"></td>
+                <td style="text-align:center">@Model.aboutreport.totalcollect</td>
+            </tr>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,322 @@
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.deps.json
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.runtimeconfig.json
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.runtimeconfig.dev.json
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.dll
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.pdb
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.Views.dll
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.Views.pdb
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.csproj.CoreCompileInputs.cache
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorAssemblyInfo.cache
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorAssemblyInfo.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.AssemblyInfoInputs.cache
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.AssemblyInfo.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.TagHelpers.input.cache
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.TagHelpers.output.cache
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorCoreGenerate.cache
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Language\LanguageIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Role\RoleIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Sergen\SergenError.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Sergen\SergenIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Tenant\TenantIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Translation\TranslationIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\User\UserIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Common\Dashboard\DashboardIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Common\Reporting\ReportPage.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\AcadamicYear\AcadamicYearIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\AccountHeads\AccountHeadsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Areas\AreasIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Campuses\CampusesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Contacts\ContactsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Countries\CountriesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\CourseFee\CourseFeeIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\CourseSubjects\CourseSubjectsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Courses\CoursesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Currencies\CurrenciesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\DivisionStudents\DivisionStudentsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Divisions\DivisionsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\FeeExcemptions\FeeExcemptionsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\FeeStructure\FeeStructureIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Fees\FeesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\FeeTerms\FeeTermsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\StaffSubjects\StaffSubjectsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Staffs\StaffsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Students\StudentsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Subjects\SubjectsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\AccountLogin.AdminLTE.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\AccountLogin.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ChangePassword\AccountChangePassword.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ForgotPassword\AccountForgotPassword.AdminLTE.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ForgotPassword\AccountForgotPassword.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ResetPassword\AccountResetPassword.AdminLTE.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ResetPassword\AccountResetPassword.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ResetPassword\AccountResetPasswordEmail.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\SignUp\AccountActivateEmail.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\SignUp\AccountSignUp.AdminLTE.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\SignUp\AccountSignUp.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\_ViewStart.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\_ViewImports.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\_ViewStart.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Errors\AccessDenied.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Errors\ValidationError.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\LeftNavigation.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutHead.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutNoNavigation.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutSlim.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutSlimHead.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorTargetAssemblyInfo.cache
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorTargetAssemblyInfo.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.Views.pdb
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.dll
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.pdb
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.csproj.CopyComplete
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Exams\ExamsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Attandance\AttandanceIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Attandance\AttendanceEditIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\FeeAllocation\FeeAllocationIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\FeeCollection\FeeCollectionIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\MarkSheet\MarkSheetIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\PromotionDetails\PromotionDetailsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Promotions\PromotionsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\FeeDue.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\AttendanceReport.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\StudentMarksDetails\StudentMarksDetailsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\StudentMarks\StudentMarksIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\ClassWiseAttendanceReport.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\ClassWiseFeeCollection.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\ProgressCard.g.cshtml.cs
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.csprojAssemblyReference.cache
+D:\Works\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\StudentCurrentCourses\StudentCurrentCoursesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.deps.json
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.runtimeconfig.json
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.runtimeconfig.dev.json
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.dll
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.pdb
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.Views.dll
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.Views.pdb
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.csproj.CoreCompileInputs.cache
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorAssemblyInfo.cache
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorAssemblyInfo.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.AssemblyInfoInputs.cache
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.AssemblyInfo.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.TagHelpers.input.cache
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.TagHelpers.output.cache
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorCoreGenerate.cache
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Accounts\Accounts\AccountsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Accounts\Contra\ContraIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Accounts\Payment\PaymentIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Accounts\Receipt\ReceiptIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Language\LanguageIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Role\RoleIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Sergen\SergenError.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Sergen\SergenIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Settings\SettingsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\SystemSettings\SystemSettingsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Tenant\TenantIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Translation\TranslationIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\User\UserIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Common\Dashboard\DashboardIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Common\Reporting\ReportPage.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\AcadamicYear\AcadamicYearIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\AccountHeads\AccountHeadsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Areas\AreasIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Campuses\CampusesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Contacts\ContactsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Countries\CountriesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\CourseDivisions\CourseDivisionsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\CourseFee\CourseFeeIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\CourseSubjects\CourseSubjectsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Courses\CoursesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Currencies\CurrenciesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\DivisionStudents\DivisionStudentsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Divisions\DivisionsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\ExamCourses\ExamCoursesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\ExamMaxMarks\ExamMaxMarksIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Exams\ExamsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\FeeExcemptions\FeeExcemptionsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\FeeStructure\FeeStructureIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Fees\FeesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\FeeTerms\FeeTermsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\StaffSubjects\StaffSubjectsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Staffs\StaffsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\StudentCurrentCourses\StudentCurrentCoursesIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Students\StudentsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Subjects\SubjectsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\AccountLogin.AdminLTE.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\AccountLogin.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ChangePassword\AccountChangePassword.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ForgotPassword\AccountForgotPassword.AdminLTE.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ForgotPassword\AccountForgotPassword.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ResetPassword\AccountResetPassword.AdminLTE.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ResetPassword\AccountResetPassword.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ResetPassword\AccountResetPasswordEmail.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\SignUp\AccountActivateEmail.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\SignUp\AccountSignUp.AdminLTE.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\SignUp\AccountSignUp.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\_ViewStart.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Admission\AdmissionIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Attandance\AttandanceIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Attandance\AttendanceEditIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\CourseExitDetails\CourseExitDetailsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\CourseExit\CourseExitIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\FeeAllocationTranportation\FeeAllocationTranportationIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\FeeAllocation\FeeAllocationIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\FeeCollection\FeeCollectionIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\PromotionDetails\PromotionDetailsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Promotions\PromotionsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\AccountStatements.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\AttendanceReport.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\ClassWiseAttendanceReport.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\ClassWiseFeeCollection.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\FeeDue.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\ProgressCard.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\StaffAttendanceSummary.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\TrialBalance.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\SalaryPayments\SalaryPaymentsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\SalaryStructure\SalaryStructureIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\StudentMarksDetails\StudentMarksDetailsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\StudentMarksSubjects\StudentMarksSubjectsIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\StudentMarks\StudentMarksIndex.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\_ViewImports.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\_ViewStart.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Errors\AccessDenied.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Errors\ValidationError.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\LeftNavigation.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutHead.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutNoNavigation.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutSlim.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutSlimHead.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorTargetAssemblyInfo.cache
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorTargetAssemblyInfo.cs
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.Views.pdb
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.dll
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.pdb
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.csproj.CopyComplete
+D:\Works\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.csprojAssemblyReference.cache
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\web.config
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\appsettings.json
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\package-lock.json
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\package.json
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\sergen.json
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\tsconfig.json
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\tslint.json
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.deps.json
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.runtimeconfig.json
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.runtimeconfig.dev.json
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.dll
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.pdb
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.Views.dll
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\bin\Release\netcoreapp2.2\BitPro.SchoolMate.Web.Views.pdb
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.csproj.AssemblyReference.cache
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.AssemblyInfoInputs.cache
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.AssemblyInfo.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.csproj.CoreCompileInputs.cache
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorAssemblyInfo.cache
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorAssemblyInfo.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.TagHelpers.input.cache
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.TagHelpers.output.cache
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorCoreGenerate.cache
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Accounts\Accounts\AccountsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Accounts\Contra\ContraIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Accounts\Payment\PaymentIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Accounts\Receipt\ReceiptIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Language\LanguageIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Role\RoleIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Sergen\SergenError.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Sergen\SergenIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Settings\SettingsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\SystemSettings\SystemSettingsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Tenant\TenantIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\Translation\TranslationIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Administration\User\UserIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Common\Dashboard\DashboardIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Common\Reporting\ReportPage.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\AcadamicYear\AcadamicYearIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\AccountHeads\AccountHeadsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Areas\AreasIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Campuses\CampusesIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Contacts\ContactsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Countries\CountriesIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\CourseDivisions\CourseDivisionsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\CourseFee\CourseFeeIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\CourseSubjects\CourseSubjectsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Courses\CoursesIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Currencies\CurrenciesIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\DivisionStudents\DivisionStudentsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Divisions\DivisionsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\ExamCourses\ExamCoursesIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\ExamMaxMarks\ExamMaxMarksIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Exams\ExamsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\FeeExcemptions\FeeExcemptionsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\FeeStructure\FeeStructureIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Fees\FeesIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\FeeTerms\FeeTermsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\StaffSubjects\StaffSubjectsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Staffs\StaffsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\StudentCurrentCourses\StudentCurrentCoursesIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Students\StudentsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Master\Subjects\SubjectsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\AccountLogin.AdminLTE.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\AccountLogin.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ChangePassword\AccountChangePassword.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ForgotPassword\AccountForgotPassword.AdminLTE.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ForgotPassword\AccountForgotPassword.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ResetPassword\AccountResetPassword.AdminLTE.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ResetPassword\AccountResetPassword.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\ResetPassword\AccountResetPasswordEmail.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\SignUp\AccountActivateEmail.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\SignUp\AccountSignUp.AdminLTE.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\Account\SignUp\AccountSignUp.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Membership\_ViewStart.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Admission\AdmissionIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Attandance\AttandanceIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Attandance\AttendanceEditIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\CourseExitDetails\CourseExitDetailsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\CourseExit\CourseExitIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\FeeAllocationTranportation\FeeAllocationTranportationIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\FeeAllocation\FeeAllocationIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\FeeCollection\FeeCollectionIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\PromotionDetails\PromotionDetailsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Promotions\PromotionsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\AccountStatements.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\AttendanceReport.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\ClassWiseAttendanceReport.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\ClassWiseFeeCollection.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\FeeDue.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\ProgressCard.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\StaffAttendanceSummary.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Reports\TrialBalance.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\SalaryPayments\SalaryPaymentsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\SalaryStructure\SalaryStructureIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\StudentMarksDetails\StudentMarksDetailsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\StudentMarksSubjects\StudentMarksSubjectsIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\StudentMarks\StudentMarksIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\Transactions\Transport\TransportIndex.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\_ViewImports.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Modules\_ViewStart.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Errors\AccessDenied.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Errors\ValidationError.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\LeftNavigation.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutHead.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutNoNavigation.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutSlim.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutSlimHead.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorTargetAssemblyInfo.cache
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.RazorTargetAssemblyInfo.cs
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.Views.pdb
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.dll
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.pdb
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.genruntimeconfig.cache
+D:\BitPro Work\BitPro.SchoolMate.New\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Release\netcoreapp2.2\BitPro.SchoolMate.Web.csproj.CopyComplete

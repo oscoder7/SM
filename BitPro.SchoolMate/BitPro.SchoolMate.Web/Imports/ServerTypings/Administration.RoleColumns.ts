@@ -1,0 +1,3 @@
+﻿namespace BitPro.SchoolMate.Administration {
+}
+

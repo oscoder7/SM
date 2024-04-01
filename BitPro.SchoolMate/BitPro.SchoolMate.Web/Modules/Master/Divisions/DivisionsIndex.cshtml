@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = Serenity.LocalText.Get("Db.Master.Divisions.EntityPlural");
+}
+<style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+</style>
+<div id="GridDiv"></div>
+<script type="text/javascript">
+    jQuery(function () {
+        new BitPro.SchoolMate.Master.DivisionsGrid($('#GridDiv'), {}).init();
+
+        Q.initFullHeightGridPage($('#GridDiv'));
+    });
+    function myFunc(id, divid, acdid) {
+        $.ajax({
+            type: 'GET',
+            url: 'Services/Master/Divisions/UpdateAttendanceLeave/' + id + '/' + divid + '/' + acdid + '',
+            dataType: 'json',
+            success: function (result) {
+               
+            }
+        });
+    }
+</script>

@@ -1,0 +1,5 @@
+C:\Users\anwar\source\repos\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Debug\netcoreapp2.1\BitPro.SchoolMate.Web.csproj.AssemblyReference.cache
+C:\Users\anwar\source\repos\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Debug\netcoreapp2.1\BitPro.SchoolMate.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anwar\source\repos\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Debug\netcoreapp2.1\BitPro.SchoolMate.Web.AssemblyInfoInputs.cache
+C:\Users\anwar\source\repos\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Debug\netcoreapp2.1\BitPro.SchoolMate.Web.AssemblyInfo.cs
+C:\Users\anwar\source\repos\BitPro.SchoolMate\BitPro.SchoolMate\BitPro.SchoolMate.Web\obj\Debug\netcoreapp2.1\BitPro.SchoolMate.Web.csproj.CoreCompileInputs.cache

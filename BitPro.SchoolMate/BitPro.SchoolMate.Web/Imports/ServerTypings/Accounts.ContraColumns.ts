@@ -1,0 +1,2 @@
+﻿namespace BitPro.SchoolMate.Accounts {
+}

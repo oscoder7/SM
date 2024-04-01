@@ -1,0 +1,294 @@
+{
+  "RootNamespace": "BitPro.SchoolMate",
+  "ServerTypings": {
+    "Assemblies": [],
+    "LocalTexts": true
+  },
+  "Connections": [
+    {
+      "Key": "Default",
+      "Tables": [
+        {
+          "Tablename": "dbo.AcadamicYear",
+          "Identifier": "AcadamicYear",
+          "Module": "Master",
+          "PermissionKey": "Master:AcadamicYear"
+        },
+        {
+          "Tablename": "dbo.AccountHeads",
+          "Identifier": "AccountHeads",
+          "Module": "Master",
+          "PermissionKey": "Master:AccountHeads"
+        },
+        {
+          "Tablename": "dbo.Accounts",
+          "Identifier": "Accounts",
+          "Module": "Accounts",
+          "PermissionKey": "Accounts:Accounts"
+        },
+        {
+          "Tablename": "dbo.Admission",
+          "Identifier": "Admission",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:Admission"
+        },
+        {
+          "Tablename": "dbo.Areas",
+          "Identifier": "Areas",
+          "Module": "Master",
+          "PermissionKey": "Master:Areas"
+        },
+        {
+          "Tablename": "dbo.Attandance",
+          "Identifier": "Attandance",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:Attandance"
+        },
+        {
+          "Tablename": "dbo.Campuses",
+          "Identifier": "Campuses",
+          "Module": "Master",
+          "PermissionKey": "Master:Campuses"
+        },
+        {
+          "Tablename": "dbo.Config",
+          "Identifier": "Settings",
+          "Module": "Administration",
+          "PermissionKey": "Administration:Settings"
+        },
+        {
+          "Tablename": "dbo.Contacts",
+          "Identifier": "Contacts",
+          "Module": "Master",
+          "PermissionKey": "Master:Contacts"
+        },
+        {
+          "Tablename": "dbo.Countries",
+          "Identifier": "Countries",
+          "Module": "Master",
+          "PermissionKey": "Master:Countries"
+        },
+        {
+          "Tablename": "dbo.CourseDivisions",
+          "Identifier": "CourseDivisions",
+          "Module": "Master",
+          "PermissionKey": "Master:Courses"
+        },
+        {
+          "Tablename": "dbo.CourseExit",
+          "Identifier": "CourseExit",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:CourseExit"
+        },
+        {
+          "Tablename": "dbo.CourseExitDetails",
+          "Identifier": "CourseExitDetails",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:CourseExit"
+        },
+        {
+          "Tablename": "dbo.CourseFee",
+          "Identifier": "CourseFee",
+          "Module": "Master",
+          "PermissionKey": "Master:Fees"
+        },
+        {
+          "Tablename": "dbo.Courses",
+          "Identifier": "Courses",
+          "Module": "Master",
+          "PermissionKey": "Master:Courses"
+        },
+        {
+          "Tablename": "dbo.CourseSubjects",
+          "Identifier": "CourseSubjects",
+          "Module": "Master",
+          "PermissionKey": "Master:CourseSubjects"
+        },
+        {
+          "Tablename": "dbo.Currencies",
+          "Identifier": "Currencies",
+          "Module": "Master",
+          "PermissionKey": "Master:Currencies"
+        },
+        {
+          "Tablename": "dbo.Divisions",
+          "Identifier": "Divisions",
+          "Module": "Master",
+          "PermissionKey": "Master:Divisions"
+        },
+        {
+          "Tablename": "dbo.DivisionStudents",
+          "Identifier": "DivisionStudents",
+          "Module": "Master",
+          "PermissionKey": "Master:Divisions"
+        },
+        {
+          "Tablename": "dbo.ExamCourses",
+          "Identifier": "ExamCourses",
+          "Module": "Master",
+          "PermissionKey": "Master:Exams"
+        },
+        {
+          "Tablename": "dbo.ExamMaxMarks",
+          "Identifier": "ExamMaxMarks",
+          "Module": "Master",
+          "PermissionKey": "Master:Exams"
+        },
+        {
+          "Tablename": "dbo.Exams",
+          "Identifier": "Exams",
+          "Module": "Master",
+          "PermissionKey": "Master:Exams"
+        },
+        {
+          "Tablename": "dbo.FeeAllocation",
+          "Identifier": "FeeAllocation",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:FeeCollection"
+        },
+        {
+          "Tablename": "dbo.FeeAllocationTranportation",
+          "Identifier": "FeeAllocationTranportation",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:FeeCollection"
+        },
+        {
+          "Tablename": "dbo.FeeCollection",
+          "Identifier": "FeeCollection",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:FeeCollection"
+        },
+        {
+          "Tablename": "dbo.FeeExcemptions",
+          "Identifier": "FeeExcemptions",
+          "Module": "Master",
+          "PermissionKey": "Master:FeeExcemptions"
+        },
+        {
+          "Tablename": "dbo.Fees",
+          "Identifier": "Fees",
+          "Module": "Master",
+          "PermissionKey": "Master:Fees"
+        },
+        {
+          "Tablename": "dbo.FeeStructure",
+          "Identifier": "FeeStructure",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:FeeCollection"
+        },
+        {
+          "Tablename": "dbo.FeeTerms",
+          "Identifier": "FeeTerms",
+          "Module": "Master",
+          "PermissionKey": "Master:FeeTerms"
+        },
+        {
+          "Tablename": "dbo.JournalEntries",
+          "Identifier": "Contra",
+          "Module": "Accounts",
+          "PermissionKey": "Accounts:Contra"
+        },
+        {
+          "Tablename": "dbo.MarkSheet",
+          "Identifier": "MarkSheet",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:MarkSheet"
+        },
+        {
+          "Tablename": "dbo.PromotionDetails",
+          "Identifier": "PromotionDetails",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:Promotions"
+        },
+        {
+          "Tablename": "dbo.Promotions",
+          "Identifier": "Promotions",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:Promotions"
+        },
+        {
+          "Tablename": "dbo.SalaryPayments",
+          "Identifier": "SalaryPayments",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:Salary"
+        },
+        {
+          "Tablename": "dbo.SalaryStructure",
+          "Identifier": "SalaryStructure",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:Salary"
+        },
+        {
+          "Tablename": "dbo.Settings",
+          "Identifier": "SystemSettings",
+          "Module": "Administration",
+          "PermissionKey": "Administration:SystemSettings"
+        },
+        {
+          "Tablename": "dbo.Staffs",
+          "Identifier": "Staffs",
+          "Module": "Master",
+          "PermissionKey": "Master:Staffs"
+        },
+        {
+          "Tablename": "dbo.StaffSubjects",
+          "Identifier": "StaffSubjects",
+          "Module": "Master",
+          "PermissionKey": "Master:Staffs"
+        },
+        {
+          "Tablename": "dbo.StudentCurrentCourses",
+          "Identifier": "StudentCurrentCourses",
+          "Module": "Master",
+          "PermissionKey": "Master:Students"
+        },
+        {
+          "Tablename": "dbo.StudentMarks",
+          "Identifier": "StudentMarks",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:StudentMarks"
+        },
+        {
+          "Tablename": "dbo.StudentMarksDetails",
+          "Identifier": "StudentMarksDetails",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:StudentMarks"
+        },
+        {
+          "Tablename": "dbo.StudentMarksSubjects",
+          "Identifier": "StudentMarksSubjects",
+          "Module": "Transactions",
+          "PermissionKey": "Transactions:StudentMarks"
+        },
+        {
+          "Tablename": "dbo.Students",
+          "Identifier": "Students",
+          "Module": "Master",
+          "PermissionKey": "Master:Students"
+        },
+        {
+          "Tablename": "dbo.Subjects",
+          "Identifier": "Subjects",
+          "Module": "Master",
+          "PermissionKey": "Master:Subjects"
+        },
+        {
+          "Tablename": "dbo.Tenants",
+          "Identifier": "Tenant",
+          "Module": "Administration",
+          "PermissionKey": "Administration:Tenants"
+        },
+        {
+          "Tablename": "dbo.Transport",
+          "Identifier": "Transport",
+          "Module": "Transactions",
+          "PermissionKey": "Administration:General"
+        }
+      ]
+    }
+  ],
+  "BaseRowClasses": [],
+  "RemoveForeignFields": [],
+  "CustomGenerate": {},
+  "CustomSettings": {}
+}

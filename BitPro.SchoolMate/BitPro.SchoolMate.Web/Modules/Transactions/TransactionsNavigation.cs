@@ -1,0 +1,30 @@
+﻿using Serenity.Navigation;
+using MyPages = BitPro.SchoolMate.Transactions.Pages;
+
+[assembly: NavigationMenu(int.MaxValue, "Transactions", icon: "fa fa-calculator")]
+//[assembly: NavigationLink(int.MaxValue, "Transactions/Promotion Details", typeof(MyPages.PromotionDetailsController), icon: null)]
+[assembly: NavigationLink(int.MaxValue, "Transactions/Promotions", typeof(MyPages.PromotionsController), icon: null)]
+[assembly: NavigationLink(int.MaxValue, "Transactions/Fee Collection", typeof(MyPages.FeeCollectionController), icon: null)]
+//[assembly: NavigationLink(int.MaxValue, "Transactions/Fee Allocation", typeof(MyPages.FeeAllocationController), icon: null)]
+//[assembly: NavigationLink(int.MaxValue, "Transactions/Attendance", typeof(MyPages.AttandanceController), icon: null)]
+[assembly: NavigationLink(int.MaxValue, "Transactions/Attendance", typeof(MyPages.AttendanceController), icon: null)]
+//[assembly: NavigationLink(int.MaxValue, "Transactions/Attandance", typeof(MyPages.AttandanceEditController), icon: null)]
+//[assembly: NavigationLink(int.MaxValue, "Transactions/Mark Sheet", typeof(MyPages.MarkSheetController), icon: null)]
+
+[assembly: NavigationMenu(int.MaxValue, "Reports", icon: "fa-files-o")]
+[assembly: NavigationLink(int.MaxValue, "Reports/Fee Due", typeof(MyPages.FeeDueReportController), icon: null)]
+[assembly: NavigationLink(int.MaxValue, "Reports/Progress Card", typeof(MyPages.ProgressCardController), icon: null)]
+[assembly: NavigationLink(int.MaxValue, "Reports/Attendance Reports", typeof(BitPro.SchoolMate.Transactions.Pages.ReportsController), icon: null)]
+[assembly: NavigationLink(int.MaxValue, "Reports/Fee Collection Reports", typeof(BitPro.SchoolMate.Transactions.Pages.FeeCollectionReportsController), icon: null)]
+[assembly: NavigationLink(int.MaxValue, "Reports/Account Reports", typeof(BitPro.SchoolMate.Transactions.Pages.AccountReportsPageController), icon: null)]
+[assembly: NavigationLink(int.MaxValue, "Transactions/Student Marks", typeof(MyPages.StudentMarksController), icon: null)]
+//[assembly: NavigationLink(int.MaxValue, "Transactions/Student Marks Details", typeof(MyPages.StudentMarksDetailsController), icon: null)]
+//[assembly: NavigationLink(int.MaxValue, "Transactions/Student Marks Subjects", typeof(MyPages.StudentMarksSubjectsController), icon: null)]
+[assembly: NavigationLink(int.MaxValue, "Transactions/Course Exit", typeof(MyPages.CourseExitController), icon: null)]
+//[assembly: NavigationLink(int.MaxValue, "Transactions/Course Exit Details", typeof(MyPages.CourseExitDetailsController), icon: null)]
+[assembly: NavigationLink(int.MaxValue, "Transactions/Admission", typeof(MyPages.AdmissionController), icon: null)]
+//[assembly: NavigationLink(int.MaxValue, "Transactions/Fee Allocation Tranportation", typeof(MyPages.FeeAllocationTranportationController), icon: null)]
+[assembly: NavigationLink(int.MaxValue, "Transactions/Salary Structure", typeof(MyPages.SalaryStructureController), icon: null)]
+//[assembly: NavigationLink(int.MaxValue, "Transactions/Salary Payments", typeof(MyPages.SalaryPaymentsController), icon: null)]
+[assembly: NavigationLink(int.MaxValue, "Transactions/Transport", typeof(MyPages.TransportController), icon: null)]
+ 

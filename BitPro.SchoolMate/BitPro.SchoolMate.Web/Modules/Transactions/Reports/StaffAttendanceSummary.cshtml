@@ -1,0 +1,86 @@
+﻿@model BitPro.SchoolMate.Transactions.Pages.StaffAttendanceSummary.StaffAttendanceSummaryReporViewtData
+@if ((bool?)ViewData["Printing"] == true)
+{
+    Layout = MVC.Views.Shared._LayoutNoNavigation;
+}
+@section Head {
+
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+}
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    /* Float four columns side by side */
+    .column {
+        float: left;
+        width: 25%;
+        padding: 0 10px;
+    }
+
+    /* Remove extra left and right margins, due to padding */
+    .row {
+        margin: 0 -5px;
+    }
+
+        /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+    /* Responsive columns */
+
+
+    /* Style the counter cards */
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        padding: 16px;
+        text-align: center;
+        background-color: #f1f1f1;
+    }
+</style>
+
+<div class="w3-container" id="pardiv">
+    <div class="col-md-6 card" style="padding:5px">
+        <h1>Staff Attendance Summary</h1>From:@Model.aboutreport.FromDate.ToString("dd-MMM-yyy") To:@Model.aboutreport.ToDate.ToString("dd-MMM-yyy")
+        <table class="w3-table-all">
+            <thead>
+                <tr class="w3-red">
+                    <th>StaffName</th>
+                    <th>TotalAbsente</th>
+                    <th>TotalPresent</th>
+                    <th>DailyWage</th>
+                    <th>TotalWage</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var d in Model.Details)
+                {
+                    <tr>
+                        <td>@d.TeacherName</td>
+                        <td style="text-align:center">@d.TotalAbsente</td>
+                        <td style="text-align:center">@d.TotalPresent</td>
+                        <td style="text-align:right">@d.DailyWage</td>
+                        <td style="text-align:right">@d.TotalWage</td>
+                    </tr>
+                }
+                <tr>
+                    <td>Total:</td>
+                    <td style="text-align:center"></td>
+                    <td style="text-align:center"></td>
+                    <td style="text-align:right"></td>
+                    <td style="text-align:right">@Model.aboutreport.TotalAmount</td>
+                </tr>
+            </tbody>
+
+        </table>
+    </div>
+</div>

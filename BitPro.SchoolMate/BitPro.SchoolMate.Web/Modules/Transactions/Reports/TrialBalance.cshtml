@@ -1,0 +1,227 @@
+﻿@model BitPro.SchoolMate.Transactions.Pages.TrialBalanceReport.TrialBalanceViewtData
+@if ((bool?)ViewData["Printing"] == true)
+{
+    Layout = MVC.Views.Shared._LayoutNoNavigation;
+}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+
+<section class="invoice">
+    @*<div class="row">
+    <div class="col-xs-12">
+    <h2 class="page-header" style="text-align:center">
+    Account Statement<br />
+    From:@Model.aboutreport.FromDate.ToShortDateString() To:@Model.aboutreport.ToDate.ToShortDateString()
+    <small class="pull-right">Date: @DateTime.Now.ToShortDateString()</small>
+    </h2>
+    </div>
+    </div>*@
+    <div class="row">
+        <div class="col-sm-8">
+            <h2 class="page-header" style="text-align:center">Trial Balance</h2>
+        </div>
+        <div class="col-sm-12" style="text-align:center">As Date:@Model.aboutreport.AsDate.ToString("dd-MMM-yyy")</div>
+    </div>
+    <!-- info row -->
+    <!-- /.row -->
+    <!-- Table row -->
+    <div class="container">
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th width="200px" style="text-align:left"><strong style="font-size:12px;font-style:normal">Ledger</strong></th>
+                    <th width="200px" style="text-align:left"><strong style="font-size:12px;font-style:normal">Sub Account</strong></th>
+                    <th width="200px" style="text-align:left"><strong style="font-size:12px;font-style:normal"></strong>Grouping Level</th>
+                    <th width="200px" style="text-align:right"><strong style="font-size:12px;font-style:normal">Total Debit Amount</strong></th>
+                    <th width="200px" style="text-align:right"><strong style="font-size:12px;font-style:normal">Total Credit Amount</strong></th>
+                    <th width="200px" style="text-align:right"><strong style="font-size:12px;font-style:normal">Net Balance</strong></th>
+
+
+                    
+
+                </tr>
+            </thead>
+            <tbody>
+               
+                @foreach (var d in Model.Details.Where(i => i.GroupingID == 1))
+                {
+                    <tr>
+                        <td><strong style="font-size:12px;font-weight:800;font-style:normal">@d.AccountHead</strong></td>
+                        <td><strong style="font-size:10px;font-weight:800;font-style:normal">@d.SubAccount</strong></td>
+                        <td><strong style="font-size:10px;font-weight:800;font-style:normal">@d.GroupingID</strong></td>
+
+                        <td style="text-align:right">
+                            <strong style="font-size:12px;font-weight:800;font-style:normal;text-align:center">
+                                @if (d.TotalDebitAmount == 0) { }
+                                else
+                                {
+                                    @String.Format("{0:N}", d.TotalDebitAmount)
+                                }
+                            </strong>
+                        </td>
+                        <td style="text-align:right">
+                            <strong style="font-size:12px;font-weight:800;font-style:normal;text-align:center">
+                                @if (d.TotalCreditAmount == 0) { }
+                                else
+                                {
+                                    @String.Format("{0:N}", d.TotalCreditAmount)
+                                }
+                            </strong>
+                        </td>
+
+                        <td style="text-align:right">
+                            <strong style="font-size:12px;font-style:normal;text-align:center">
+                                <c>&nbsp;&nbsp;</c> @String.Format("{0:N}", @Math.Abs(@d.TotalDebitAmount - @d.TotalCreditAmount))
+                                @if ((d.TotalDebitAmount - d.TotalCreditAmount) < 0)
+                                {
+                                    <b>Cr</b>
+                                }
+                                else
+                                {
+                                    <b>Dr</b>
+                                    ;
+                                }
+                            </strong>
+                        </td>
+
+                    </tr>
+                    @foreach (var c in Model.Details.Where(l => l.AccountHead == d.AccountHead && l.GroupingID == 0))
+                    {
+                        <tr>
+                            <td><strong style="font-size:10px;font-style:normal"></strong></td>
+                            <td><strong style="font-size:10px;font-style:normal">@c.SubAccount</strong></td>
+                            <td><strong style="font-size:10px;font-style:normal">@c.GroupingID</strong></td>
+
+
+                            <td style="text-align:right">
+                                <strong style="font-size:10px;font-style:normal;text-align:center">
+                                    @if (c.TotalDebitAmount == 0) { }
+                                    else
+                                    {
+
+                                        @String.Format("{0:N}",c.TotalDebitAmount) <c>&nbsp;&nbsp;</c>
+
+                                    }
+                                </strong>
+                            </td>
+                            <td style="text-align:right">
+                                <strong style="font-size:10px;font-style:normal;text-align:center">
+                                    @if (c.TotalCreditAmount == 0) { }
+                                    else
+                                    {
+
+                                        @String.Format("{0:N}",c.TotalCreditAmount) <c>&nbsp;&nbsp;</c>
+                                        ;
+                                    }
+                                </strong>
+                            </td>
+
+                            <td style="text-align:right">
+                                <strong style="font-size:10px;font-style:normal;text-align:center">
+                                    <c>&nbsp;&nbsp;</c>
+                                    @String.Format("{0:N}", @Math.Abs(@c.TotalDebitAmount - @c.TotalCreditAmount))
+                                    @if ((c.TotalDebitAmount - c.TotalCreditAmount) < 0)
+                                    {
+                                        <b>Cr</b>
+                                    }
+                                    else
+                                    {
+                                        <b>Dr</b>
+                                        ;
+                                    }
+                                </strong>
+                            </td>
+
+                        </tr>
+
+                    }
+
+
+                }
+                @foreach (var d in Model.Details.Where(i => i.GroupingID == 3))
+                {
+                    <tr>
+                        <td><strong style="font-size:12px;font-weight:800;font-style:normal">@d.AccountHead</strong></td>
+                        <td><strong style="font-size:10px;font-weight:800;font-style:normal">@d.SubAccount</strong></td>
+                        <td><strong style="font-size:10px;font-weight:800;font-style:normal">@d.GroupingID</strong></td>
+
+                        <td style="text-align:right">
+                            <strong style="font-size:12px;font-weight:800;font-style:normal;text-align:center">
+                                @if (d.TotalDebitAmount == 0) { }
+                                else
+                                {
+                                    @String.Format("{0:N}", d.TotalDebitAmount)
+                                }
+                            </strong>
+                        </td>
+                        <td style="text-align:right">
+                            <strong style="font-size:12px;font-weight:800;font-style:normal;text-align:center">
+                                @if (d.TotalCreditAmount == 0) { }
+                                else
+                                {
+                                    @String.Format("{0:N}", d.TotalCreditAmount)
+                                }
+                            </strong>
+                        </td>
+
+                        <td style="text-align:right">
+                            <strong style="font-size:12px;font-style:normal;text-align:center">
+                                <c>&nbsp;&nbsp;</c> @String.Format("{0:N}", @Math.Abs(@d.TotalDebitAmount - @d.TotalCreditAmount))
+                                @if ((d.TotalDebitAmount - d.TotalCreditAmount) < 0)
+                                {
+                                    <b>Cr</b>
+                                }
+                                else
+                                {
+                                    <b>Dr</b>
+                                    ;
+                                }
+                            </strong>
+                        </td>
+
+                    </tr>
+                }
+                  
+            </tbody>
+        </table>
+    </div>
+
+
+
+
+    @*<div class="row">
+    <div class="col-xs-6">
+
+    </div>
+    /.col
+    <div class="col-xs-6">
+    <p class="lead">Amount Due @(Model.Order.OrderDate.Value.AddDays(10).ToShortDateString())</p>
+
+    @{
+    var subTotal = Model.Details.Sum(x => x.LineTotal ?? 0);
+    }
+
+    <div class="table-responsive">
+    <table class="table">
+    <tr>
+    <th style="width:50%">Subtotal:</th>
+    <td>$@subTotal.ToString("#,##0.00")</td>
+    </tr>
+    <tr>
+    <th>Tax (9.3%)</th>
+    <td>$@((subTotal * 0.093m).ToString("#,##0.00"))</td>
+    </tr>
+    <tr>
+    <th>Shipping:</th>
+    <td>$5.80</td>
+    </tr>
+    <tr>
+    <th>Total:</th>
+    <td>$@((subTotal * 1.093m).ToString("#,##0.00"))</td>
+    </tr>
+    </table>
+    </div>
+    </div>
+    </div>*@
+</section>
